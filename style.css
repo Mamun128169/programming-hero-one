@@ -1,0 +1,18 @@
+.container {
+    background-color: tomato;
+    font-weight: 500;
+
+}
+
+p {
+    background-color: dodgerblue;
+    color: rgb(247, 215, 215);
+    padding: 10px;
+}
+
+h2 {
+    background-color: green;
+    color: aliceblue;
+    padding: 6px;
+    text-align: center;
+}
